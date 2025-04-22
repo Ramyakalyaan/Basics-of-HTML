@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to ="/Basics of HTML.html"
+status = 200
